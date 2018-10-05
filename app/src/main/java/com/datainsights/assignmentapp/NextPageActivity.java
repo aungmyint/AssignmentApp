@@ -11,5 +11,6 @@ public class NextPageActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_next_page);
         Log.i("Second","NextPageActivity");
+
     }
 }
