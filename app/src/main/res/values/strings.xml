@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CVFormApp</string>
+    <string name="title">CV Form</string>
+    <string name="sub_title_1">Personal Information</string>
+    <string name="sub_title_2">Educational Qualification</string>
+    <string name="sub_title_3">Working Experiences</string>
+    <string name="sub_title_4">Projects</string>
+    <string name="lbl_name">Name</string>
+    <string name="hint_name">AMM</string>
+    <string name="lbl_nrc">NRC</string>
+    <string name="hint_nrc">7/PAKHANA(N)221133</string>
+    <string name="lbl_dob">DOB</string>
+    <string name="hint_dob">11/02/1987</string>
+    <string name="lbl_f_name">Father Name</string>
+    <string name="hint_f_name">U Win</string>
+    <string name="lbl_gender">Gender</string>
+    <string name="lbl_male">Male</string>
+    <string name="lbl_female">Female</string>
+    <string name="lbl_address">Address</string>
+    <string name="hint_address">No:121,ThuKha Str,Hlaing Township, Yangon.</string>
+    <string name="lbl_phone">Phone</string>
+    <string name="hint_phone">0912121212</string>
+    <string name="lbl_email">Email</string>
+    <string name="hint_email">aaa@gmail.com</string>
+    <string name="lbl_education">Education</string>
+    <string name="hint_education">...</string>
+    <string name="lbl_other">Other</string>
+    <string name="hint_other">...</string>
+    <string name="lbl_year">Years</string>
+    <string name="hint_year">5</string>
+    <string name="lbl_company">Company</string>
+    <string name="hint_company">ABC</string>
+    <string name="lbl_p_details">Project Details</string>
+    <string name="hint_p_details">...</string>
+    <string name="btn_submit">Submit</string>
+
+</resources>
